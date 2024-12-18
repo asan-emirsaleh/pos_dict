@@ -1,7 +1,7 @@
 # pos_dict
 Dictionary of the Crimean Tatar language
 
-Following dictionary is developed for multipurpose usage.
+The dictionary is developed for multipurpose usage.
 
 # Structure
 
